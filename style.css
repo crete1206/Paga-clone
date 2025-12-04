@@ -151,6 +151,41 @@
     nav .fa-bars{
         display: none;
     }
+    .fourth-section{
+        background-color: var(--primary-color);
+        /* padding: 70px; */
+    }
+    .fourth-section h1{
+        color: var(--secondary-color);
+    }
+    .fourth-section-main{
+        padding: 70px;
+        /* margin: 20px; */
+    }
+    .need-agent{
+        padding: 10px;
+        border-radius: 30px;
+        border: none;
+        margin: 10px 0;
+    }
+    .find-agent{
+        background-color: white;
+        color: var(--primary-color);
+        padding: 15px;
+        font-size: small;
+        border: none;
+        border-radius: 5px;
+    }
+    .become-agent{
+        background-color: var(--primary-color);
+        color: var(--secondary-color);
+        padding: 10px 10px;
+        /* border: var(--secondary-color); */
+        font-size: small;
+        border-radius: 5px;
+    }
+
+    
 
 
 
@@ -219,5 +254,10 @@
     }
     .info{
         padding: 60px 0;
-    } 
+    }
+    .fourth-section{
+        background-color: var(--primary-color);
+
+    }
+
 } 
